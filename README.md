@@ -7,7 +7,7 @@ Ce projet consiste en l’analyse d’un jeu de donnée recueillant des données
 https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29
 * Le dataset est composé de 1885 individus et 32 attributs sont étudiés pour chacun. Ainsi, on connait des données personnelles sur les participants (tel que la nationalité, l’Age, l’éducation, la personnalité, …) mais aussi s’ils ont déjà consommé une des drogues listées et si oui quand.
 
-### Attributs personnels :
+#### Attributs personnels :
  - Age
  - Gender
  - Education
@@ -21,7 +21,7 @@ https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29
  - Impulsive (impulsiveness measured by BIS-11)
  - SS (sensation seeing measured by ImpSS)
 
-### Attributs drogue :
+#### Attributs drogue :
  
  - Alcohol     
  - Amphet 
