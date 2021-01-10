@@ -1,12 +1,11 @@
 # Python_project
-
+***
 Groupe : BRINGER Erwan, CANTIE Maxime
 
 ## DATASET
 Ce projet consiste en l’analyse d’un jeu de donnée recueillant des données sur la consommation de drogue, la personnalité des participants, ainsi que d’autres données les définissant :
 https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29
-***
-Le dataset est composé de 1885 individus et 32 attributs sont étudiés pour chacun. Ainsi, on connait des données personnelles sur les participants (tel que la nationalité, l’Age, l’éducation, la personnalité, …) mais aussi s’ils ont déjà consommé une des drogues listées et si oui quand.
+* Le dataset est composé de 1885 individus et 32 attributs sont étudiés pour chacun. Ainsi, on connait des données personnelles sur les participants (tel que la nationalité, l’Age, l’éducation, la personnalité, …) mais aussi s’ils ont déjà consommé une des drogues listées et si oui quand.
 
 ### Attributs personnels :
  - Age
