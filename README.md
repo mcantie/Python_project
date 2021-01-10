@@ -1,8 +1,6 @@
 # Python_project
 
-Groupe :
-BRINGER Erwan
-CANTIE Maxime
+Groupe : BRINGER Erwan, CANTIE Maxime
 
 ## DATASET
 Ce projet consiste en l’analyse d’un jeu de donnée recueillant des données sur la consommation de drogue, la personnalité des participants, ainsi que d’autres données les définissant :
